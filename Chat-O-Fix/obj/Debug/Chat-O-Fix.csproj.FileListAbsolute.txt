@@ -18,3 +18,14 @@ G:\Schule\#Pool\SAE\60 - Chat-O-Fix\Chat-O-Fix\Chat-O-Fix\obj\Debug\Chat_O_Fix.f
 G:\Schule\#Pool\SAE\60 - Chat-O-Fix\Chat-O-Fix\Chat-O-Fix\obj\Debug\Chat_O_Fix.Properties.Resources.resources
 G:\Schule\#Pool\SAE\60 - Chat-O-Fix\Chat-O-Fix\Chat-O-Fix\obj\Debug\Chat-O-Fix.csproj.GenerateResource.Cache
 G:\Schule\#Pool\SAE\60 - Chat-O-Fix\Chat-O-Fix\Chat-O-Fix\obj\Debug\Chat-O-Fix.csprojResolveAssemblyReference.cache
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\bin\Debug\Chat-O-Fix.exe.config
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\bin\Debug\Chat-O-Fix.exe
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\bin\Debug\Chat-O-Fix.pdb
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat-O-Fix.csprojAssemblyReference.cache
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat_O_Fix.frmChat.resources
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat_O_Fix.Properties.Resources.resources
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat-O-Fix.csproj.GenerateResource.cache
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat-O-Fix.csproj.CoreCompileInputs.cache
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat-O-Fix.csproj.CopyComplete
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat-O-Fix.exe
+C:\Users\Sei\Desktop\Code\GitHub\DB-Chat-Application\Chat-O-Fix\obj\Debug\Chat-O-Fix.pdb

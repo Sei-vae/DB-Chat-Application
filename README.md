@@ -5,7 +5,7 @@
 <p align="center">Display GUI and get User Input:</p>
 
 <p align="center">
-  <img src="GUI.png">
+  <img src="Chat.png">
 </p>
 
 ## How to communicate with a DB

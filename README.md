@@ -2,7 +2,7 @@
 
 **Funktion:**
 
-<p align="center">Display GUI and get User Input:</p>
+<p align="center">Display GUI; get User Input; send User Input to DB:</p>
 
 <p align="center">
   <img src="Chat.png">
